@@ -1,6 +1,6 @@
 # direct-assurance.ma
 
-A future-oriented project built around the domain `assurance-enligne.ma`, aiming to provide solutions or services related to the insurance industry or online services.
+A future-oriented project built around the domain `direct-assurance.ma`, aiming to provide solutions or services related to the insurance industry or online services.
 
 ## Project Overview
 
